@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">MyTrips</string>
     <string name="login">Login</string>
-    <string name="login">Login</string>
+    <string name="signin">Please sign in to continue </string>
+    <string name="signin2">SING IN</string>
+    <string name="accout">Don\'t have an account ?</string>
 
 </resources>
